@@ -1,0 +1,13 @@
+{
+	"bankDetails" : {
+		"cardNo" : "",
+		"surname" : "",
+		"passcode" : "",
+		"password" : ""
+	},
+	"onesignal" : {
+		"restApiKey" : "",
+		"appID" : ""
+	}
+
+}
